@@ -1,7 +1,7 @@
 {
   "name": "dash_ketcher",
   "version": "0.1",
-  "description": "Dash Ketcher is a middleware allowing to use Ketcher as a Component in Dash.",
+  "description": "Dash Ketcher is a component allowing to use Ketcher molecules drawer in Dash.",
   "repository": {
     "type": "git",
     "url": "git://github.com/icredd-cheminfo/dash-ketcher.git"
